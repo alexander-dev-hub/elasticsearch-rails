@@ -1,0 +1,11 @@
+.DS_Store
+*.log
+tmp/
+.idea/*
+
+.yardoc/
+_yardoc/
+coverage/
+rdoc/
+doc/
+Gemfile.lock
